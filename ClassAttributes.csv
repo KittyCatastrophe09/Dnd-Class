@@ -1,0 +1,14 @@
+,Strength,Dexterity,Constitution,Intelligence,Wisdom,Charisma,Ranged,Melee,Spellcaster,Sneaky,Healing,Beginner
+Bard,,,,,,1,1,,1,,1,1
+Cleric,,,,,1,,1,,1,,1,
+Fighter,1,,,,,,1,1,,,,1
+Wizard,,,,1,,,1,,1,,,
+Barbarian,1,,1,,,,,1,,,,1
+Rogue,,1,,,,,1,1,,1,,
+Ranger,,1,,,,,1,,,,,1
+Monk,,1,,,,,,1,,,,
+Paladin,1,,,,,,,1,,,1,
+Sorcerer,,,,,,1,1,,1,,,
+Warlock,,,,,,1,1,,1,,,
+Druid,,,,,1,,1,,1,,1,
+Artificer,,,,1,,,1,,1,,1,

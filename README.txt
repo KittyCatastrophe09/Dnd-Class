@@ -1,0 +1,1 @@
+During one of my internships I created a Natural Language processing model (mostly shown in the comments at the top of the code) I decided to recreate that model with python because I had so much fun doing it.
